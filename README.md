@@ -1,4 +1,4 @@
-# 🏥 Physical Medicine & Rehabilitation Dataset Analysis
+# 🏥 Data Science Case Study 
 
 ## Geliştirici: **Ramazan Karakılınç**
 - 📧 Email: ramazankarakilinc06@gmail.com
@@ -171,3 +171,4 @@ physical-medicine-rehabilitation-analysis/
 5. Pull Request oluşturun
 
 ---
+
