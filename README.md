@@ -136,7 +136,7 @@ physical-medicine-rehabilitation-analysis/
 ├── 📊 data.xlsx                            # Orijinal veri seti
 ├── 📓 Pusula_Ramazan_Karakilinc.ipynb      # Analiz notebook'u
 ├── 📄 Pusula_Intern_Data_Science_2025.pdf  # Proje gereksinimleri
-├── 📄 Dokümantasyon.pdf                    # Detaylı rapor
+├── 📄 Documentation.pdf                    # Detaylı rapor
 ├── 📄 README.md                            # Bu dosya
 ```
 ---
@@ -169,4 +169,5 @@ physical-medicine-rehabilitation-analysis/
 3. Değişikliklerinizi commit edin (`git commit -m 'Add some AmazingFeature'`)
 4. Branch'inizi push edin (`git push origin feature/AmazingFeature`)
 5. Pull Request oluşturun
+
 ---
